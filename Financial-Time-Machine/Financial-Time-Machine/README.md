@@ -19,7 +19,7 @@ A personal finance tool that visualizes alternate financial futures and provides
 ## Installation
 1. Clone the repository:
 ```bash
-
+git clone https://github.com/SanojYadav17/Financial-Time-Machine.git
 cd Financial-Time-Machine
 
 cd Financial-Time-Machine
