@@ -1,20 +1,26 @@
 # Financial Time Machine
 
-A personal finance tool that visualizes alternate financial futures.
+A personal finance tool that visualizes alternate financial futures and provides AI-powered recommendations.
 
 ## Features
-- Financial projections
-- "What-if" scenario modeling
-- AI-powered recommendations
+- Financial projections with interactive visualizations
+- "What-if" scenario modeling (Career Growth, Frugal Living, etc.)
+- AI-powered financial recommendations
 - Spending pattern analysis
-- Privacy-first design
+- Privacy-first design (all data stays local)
+
+## Technologies Used
+- Python 3
+- Pandas (data analysis)
+- Matplotlib (visualizations)
+- Scikit-learn (AI recommendations)
+- NumPy (numerical calculations)
 
 ## Installation
+1. Clone the repository:
 ```bash
-pip install -r requirements.txt
-python app.py
 
-
+cd Financial-Time-Machine
 
 cd Financial-Time-Machine
 dir
