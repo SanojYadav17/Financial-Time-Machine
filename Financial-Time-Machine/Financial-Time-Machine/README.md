@@ -25,3 +25,18 @@ cd Financial-Time-Machine
 cd Financial-Time-Machine
 dir
 python app.py
+
+#### **🔧 Software Development Features**  
+```markdown
+### 🧑‍💻 Developer Guide  
+- **Modular Code**:  
+  - `financial_engine.py` → Core financial logic  
+  - `ai_advisor.py` → ML-based suggestions  
+  - `app.py` → CLI interface  
+- **Extensible**: Add new scenarios in `setup_scenarios()`  
+- **Testing**: (Add `pytest` later)  
+
+### 📈 Future Improvements  
+- [ ] Add user authentication (for cloud sync)  
+- [ ] Web UI using Streamlit  
+- [ ] Automated unit tests  
